@@ -1,0 +1,8 @@
+/.idea/
+/images/
+/results/
+/source_images/
+/test_samples/
+/vgg_16.ckpt
+
+.DS_Store
